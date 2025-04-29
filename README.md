@@ -1,5 +1,6 @@
 # DeepONet Implementation
 
+Note: Make sure to read GUIDE.md as well for more up to date information!
 A Python implementation of the DeepONet architecture for operator learning. This project includes utilities for training, testing, and visualizing the performance of the model.
 
 ## Table of Contents
